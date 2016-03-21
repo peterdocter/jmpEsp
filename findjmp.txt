@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------
+Findjmp, Eeye, I2S-LaB
+Findjmp2, Hat-Squad
+Scanning KERNEL32.DLL for code useable with the esp register
+----------------------------------------------------------------------------
+0x7C8369F0	call esp
+0x7C86467B	jmp esp
+0x7C868667	call esp
+----------------------------------------------------------------------------
+Finished Scanning KERNEL32.DLL for code useable with the esp register
+Found 3 usable addresses
+----------------------------------------------------------------------------
+
+
+
